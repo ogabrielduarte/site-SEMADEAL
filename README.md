@@ -1,2 +1,2 @@
 # site-SEMADEAL
-Proposta de site de notícias da Secretaria de Missões do Estado de Alagoas
+Proposta de site de notícias da Secretaria de Missões da Assembleia de Deus do Estado de Alagoas
